@@ -1,0 +1,109 @@
+
+[
+    {
+      "name": "James",
+      "id": 1,
+      "email": "Jaredmail@gmail.com",
+      "role": "Manager",
+      "image":"https://image.shutterstock.com/image-vector/businessman-tried-itactive-businessman3-260nw-402263887.jpg",
+      "department": "dev",
+      "rank":1
+    },
+    {
+        "name": "Alec",
+        "id": 2,
+        "email": "Alecmail@gmail.com",
+        "role": "Engineer",
+        "image":"https://image.shutterstock.com/image-vector/business-man-smile-both-thumbs-600w-305168207.jpg",
+        "department": "dev",
+        "rank":2
+      },{
+        "name": "Tracie",
+        "id": 3,
+        "email": "Tracie@gmail.com",
+        "role": "HR",
+        "image":"https://image.shutterstock.com/image-vector/senior-female-thumb-cartoon-drawing-260nw-489027775.jpg",
+        "department": "hr",
+        "rank":1
+      },
+      {
+        "name": "Christian",
+        "id": 4,
+        "email": "Chris@gmail.com",
+        "role": "IT Tech",
+        "image":"https://image.shutterstock.com/image-vector/cartoon-businessman-icon-600w-1020426514.jpg",
+        "department": "it",
+        "rank":2
+      },
+      {
+        "name": "Jhon",
+        "id": 5,
+        "email": "John@gmail.com",
+        "role": "Intern",
+        "image":"https://image.shutterstock.com/image-vector/businessman-show-sign-horns-vector-260nw-725632444.jpg",
+        "department": "dev",
+        "rank":3
+      },
+      {
+        "name": "Becky",
+        "id": 6,
+        "email": "becky@gmail.com",
+        "role": "Manager",
+        "image":"https://image.shutterstock.com/image-vector/young-woman-office-show-peace-260nw-1655508238.jpg",
+        "department": "legal",
+        "rank":1
+      },
+      {
+        "name": "Tania",
+        "id": 7,
+        "email": "Taniamail@gmail.com",
+        "role": "Manager",
+        "image":"https://image.shutterstock.com/image-vector/afro-american-business-woman-standing-600w-591272105.jpg",
+        "department": "dev",
+        "rank":1
+      },
+      {
+          "name": "Axel",
+          "id": 8,
+          "email": "Axelmail@gmail.com",
+          "role": "Engineer",
+          "image":"https://image.shutterstock.com/image-vector/business-man-smile-both-thumbs-600w-305168207.jpg",
+          "department": "dev",
+          "rank":2
+        },{
+          "name": "Tarry",
+          "id": 9,
+          "email": "Tarry@gmail.com",
+          "role": "HR Specialist",
+          "image":"https://image.shutterstock.com/image-vector/businessman-walk-smart-phone-arrow-260nw-215729470.jpg",
+          "department": "hr",
+          "rank":2
+        },
+        {
+          "name": "Christine",
+          "id": 10,
+          "email": "Chris@gmail.com",
+          "role": "IT Manager",
+          "image":"https://image.shutterstock.com/image-vector/businesswoman-thinks-she-strong-260nw-305111888.jpg",
+          "department": "it",
+          "rank":1
+        },
+        {
+          "name": "Paul",
+          "id": 12,
+          "email": "Paul@gmail.com",
+          "role": "Intern",
+          "image":"https://image.shutterstock.com/image-vector/funny-cartoon-man-doing-yoga-260nw-130994804.jpg",
+          "department": "dev",
+          "rank":3
+        },
+        {
+          "name": "Raul",
+          "id": 13,
+          "email": "Raul@gmail.com",
+          "role": "Lawyer",
+          "image":"https://image.shutterstock.com/image-vector/businessman-show-sign-horns-vector-260nw-725632444.jpg",
+          "department": "legal",
+          "rank":2
+        }
+]
