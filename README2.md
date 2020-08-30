@@ -18,7 +18,7 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 
 ---
 ## Installation
-No install needed just follow the URL
+No install needed just follow the URL https://jackilex.github.io/react-directory/
 
 
 [Back To The Top](#read-me-template)
